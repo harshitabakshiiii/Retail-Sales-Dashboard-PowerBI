@@ -65,7 +65,7 @@ The dataset contains sales transactions of the US Superstore, including:
 ## 👩‍💻 Author
 **Harshita Bakshi**  
 Data Analyst | Python • SQL • Power BI • Tableau • Excel  
-[LinkedIn](www.linkedin.com/in/harshita-bakshi/) | [GitHub](https://github.com/harshitabakshiiii)
+[LinkedIn](www.linkedin.com/in/harshita-bakshi) | [GitHub](https://github.com/harshitabakshiiii)
 
 ---
 
