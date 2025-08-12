@@ -27,19 +27,22 @@ The purpose of this dashboard is to provide a visual representation of sales per
 ---
 
 ## 🔍 Key Insights
-- **Total Sales:** 2.30M  
-- **Total Profit:** 286.40K  
-- **Most Profitable Region:** Central  
-- **Top Category by Sales:** Technology (36.4%)  
-- **Top Region by Profit:** Central (37.86%)  
+- **Total Sales Revenue:** $706.15K  
+- **Total Profit:** $88.52K  
+- **Top Sales Category:** Technology – the leading sales driver (36.4% of total sales)  
+- **Top Performing Region:** Central Region – contributes 37.86% of total profit  
+- **Highest Regional Profit:** $33.48K from the Central Region  
+  
 
 ---
 
 ## 📌 Features
-- Sales & profit analysis by **category**
-- Sales & profit analysis by **region**
-- **Customer segment** and **year-based** filtering
-- Interactive slicers for easy exploration
+- Clear, concise KPIs showing total sales revenue, profit, top category, and top region
+- Sales and profit breakdown by product category
+- Regional performance analysis for profit and sales
+- Interactive slicers for Customer Segment and Year filtering
+- Clean visual design with consistent color palette for quick interpretation
+
 
 ---
 
