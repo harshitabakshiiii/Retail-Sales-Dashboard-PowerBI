@@ -51,7 +51,7 @@ The dataset contains sales transactions of the US Superstore, including:
 - Regional data
 - Sales & profit values
 
-**Source:** [Sample Superstore Dataset](https://www.kaggle.com/) 
+**Source:** [Sample Superstore Dataset](https://www.kaggle.com/datasets/vishakhachhatani/us-superstore-dataset/) 
 
 ---
 
