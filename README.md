@@ -13,8 +13,7 @@ The purpose of this dashboard is to provide a visual representation of sales per
 
 ## 🛠 Tools & Technologies Used
 - **Power BI** – for dashboard creation and visualization
-- **Excel** – for data cleaning and preprocessing
-- **SQL** (if applicable) – for data querying and transformation
+- **Microsoft Excel** – for data cleaning and preprocessing
 
 ---
 
